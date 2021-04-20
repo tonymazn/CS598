@@ -33,7 +33,7 @@ Sytstem Structure
     │     ├── 2021041907_58                   
     │     └── 2021041909_38                        
     │
-    ├── OldVersion 
+    ├── OldVersion                                 # Old version models
     │     ├── GAN1.ipynb
     │     ├── GAN2.ipynb
     │     ├── GAN3.ipynb
