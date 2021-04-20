@@ -1,6 +1,6 @@
 ﻿CS598 Final Project - Molecular Property Prediction
 -
-Traditional dru discovery takes long time (usually 5 to 10 years) and spends billion dollars on it, and there are four drug discovery task under drug discoery[1]:
+Traditional drug discovery takes long time (usually 5 to 10 years) and spends billion dollars on it, and there are four drug discovery task under drug discoery[1]:
 * Molecular Property Prediction:
   molecule and the ouput is predict the drug's properties.
 
