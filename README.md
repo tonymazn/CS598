@@ -1,6 +1,6 @@
 ﻿CS598 Final Project - Molecular Property Prediction
 -
-Traditional dru discovery takes long time (usually 5 to 10 years) and spends billion dollars on it, and there are four drug discovery task under drug discoery:
+Traditional dru discovery takes long time (usually 5 to 10 years) and spends billion dollars on it, and there are four drug discovery task under drug discoery[1]:
 * Molecular Property Prediction:
   molecule and the ouput is predict the drug's properties.
 
@@ -61,3 +61,22 @@ Sytstem Structure
     ├─ GAN20_bigdataset.ipynb                       # The model trainning by big data
     ├─ LICENSE                                      # project license file
     └─ README.md                                    # this file
+
+Version
+-
+1.0.0.0
+
+Team Member
+-
+Zhouning Ma
+
+NetID
+-
+ZM11
+
+License
+-
+Apache License
+
+Reference
+-[1] Vivian Hu  Project Topic B: Deep learning in Drug Discovery  https://piazza.com/class/kjyow0m1rkd7mf?cid=522
