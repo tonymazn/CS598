@@ -79,4 +79,5 @@ License
 Apache License
 
 Reference
--[1] Vivian Hu  Project Topic B: Deep learning in Drug Discovery  https://piazza.com/class/kjyow0m1rkd7mf?cid=522
+-
+[1] Vivian Hu  Project Topic B: Deep learning in Drug Discovery  https://piazza.com/class/kjyow0m1rkd7mf?cid=522
