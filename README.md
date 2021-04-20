@@ -21,7 +21,8 @@ Sytstem Structure
 -
     .
     ├─ dataset                                      # dataset folder
-    │   └── qm9.csv                                 # qm9 dataset
+    │     ├── qm8.csv                               # qm8 dataset
+    │     └── qm9.csv                               # qm9 dataset
     │
     ├── log                                         # train model log
     │     ├── 2021041710                            
