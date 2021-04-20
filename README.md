@@ -1,4 +1,4 @@
-CS598 Final Project - Molecular Property Prediction
+﻿CS598 Final Project - Molecular Property Prediction
 -
 Traditional dru discovery takes long time (usually 5 to 10 years) and spends billion dollars on it, and there are four drug discovery task under drug discoery:
 * Molecular Property Prediction:
@@ -19,6 +19,45 @@ We develop Molecular Property Prediction by a Generative Adversarial Networks (G
 
 Sytstem Structure
 -
-
-
-
+    .
+    ├─ dataset                                      # dataset folder
+    │   └── qm9.csv                                 # qm9 dataset
+    │
+    ├── log                                         # train model log
+    │     ├── 2021041710                            
+    │     ├── 2021041712                       
+    │     ├── 2021041715                                  
+    │     ├── 2021041719_63                             
+    │     ├── 2021041723_40                         
+    │     ├── 2021041807_52                         
+    │     ├── 2021041907_58                   
+    │     └── 2021041909_38                        
+    │
+    ├── OldVersion 
+    │     ├── GAN1.ipynb
+    │     ├── GAN2.ipynb
+    │     ├── GAN3.ipynb
+    │     ├── GAN4.ipynb
+    │     ├── GAN5.ipynb
+    │     ├── GAN6.ipynb
+    │     ├── GAN7_nlp.ipnyb
+    │     ├── GAN8.ipynb
+    │     ├── GAN10.ipynb
+    │     ├── GAN11_good.ipynb
+    │     ├── GAN12Good.ipynb
+    │     ├── GAN13.ipynb
+    │     ├── GAN14.ipynb
+    │     ├── GAN15.ipynb
+    │     ├── GAN15Pending_labelupdate.ipynb
+    │     ├── GAN16_nopass.ipynb
+    │     ├── GAN17.ipynb
+    │     ├── GAN18.ipynb
+    │     ├── GAN18_good.ipynb
+    │     ├── GAN19.ipynb
+    │     ├── GAN20b_bigdataset.ipynb
+    │     └── GAN20b_bigdataset.ipynb                         
+    │
+    ├─ GAN19.ipynb                                  # Paper demo example
+    ├─ GAN20_bigdataset.ipynb                       # The model trainning by big data
+    ├─ LICENSE                                      # project license file
+    └─ README.md                                    # this file
