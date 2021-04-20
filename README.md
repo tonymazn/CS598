@@ -58,7 +58,7 @@ Sytstem Structure
     │     └── GAN20b_bigdataset.ipynb                         
     │
     ├─ GAN19.ipynb                                  # Paper demo example
-    ├─ GAN20_bigdataset.ipynb                       # The model trainning by big data
+    ├─ GAN20_bigdataset.ipynb                       # The model training by big data
     ├─ LICENSE                                      # project license file
     └─ README.md                                    # this file
 
