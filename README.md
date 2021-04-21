@@ -17,13 +17,9 @@ Deep learning usually can help the first two tasks: Molecular Property Predictio
 
 We develop Molecular Property Prediction by a Generative Adversarial Networks (GAN).
 
-Sytstem Structure
+System Structure
 -
     .
-    ├── dataset                                     # dataset folder
-    │     ├── qm8.csv                               # qm8 dataset
-    │     └── qm9.csv                               # qm9 dataset
-    │
     ├── archive                                     # Old version models
     │     ├── GAN1.ipynb
     │     ├── GAN2.ipynb
@@ -47,6 +43,10 @@ Sytstem Structure
     │     ├── GAN19.ipynb
     │     ├── GAN20_bigdataset.ipynb
     │     └── GAN20b_bigdataset.ipynb                         
+    │
+    ├── dataset                                     # dataset folder
+    │     ├── qm8.csv                               # qm8 dataset
+    │     └── qm9.csv                               # qm9 dataset
     │
     ├── log                                         # train model log
     │     ├── 2021041710                            
