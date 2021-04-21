@@ -20,21 +20,11 @@ We develop Molecular Property Prediction by a Generative Adversarial Networks (G
 Sytstem Structure
 -
     .
-    ├─ dataset                                      # dataset folder
+    ├── dataset                                     # dataset folder
     │     ├── qm8.csv                               # qm8 dataset
     │     └── qm9.csv                               # qm9 dataset
     │
-    ├── log                                         # train model log
-    │     ├── 2021041710                            
-    │     ├── 2021041712                       
-    │     ├── 2021041715                                  
-    │     ├── 2021041719_63                             
-    │     ├── 2021041723_40                         
-    │     ├── 2021041807_52                         
-    │     ├── 2021041907_58                   
-    │     └── 2021041909_38                        
-    │
-    ├── OldVersion                                  # Old version models
+    ├── archive                                     # Old version models
     │     ├── GAN1.ipynb
     │     ├── GAN2.ipynb
     │     ├── GAN3.ipynb
@@ -55,8 +45,18 @@ Sytstem Structure
     │     ├── GAN18.ipynb
     │     ├── GAN18_good.ipynb
     │     ├── GAN19.ipynb
-    │     ├── GAN20b_bigdataset.ipynb
+    │     ├── GAN20_bigdataset.ipynb
     │     └── GAN20b_bigdataset.ipynb                         
+    │
+    ├── log                                         # train model log
+    │     ├── 2021041710                            
+    │     ├── 2021041712                       
+    │     ├── 2021041715                                  
+    │     ├── 2021041719_63                             
+    │     ├── 2021041723_40                         
+    │     ├── 2021041807_52                         
+    │     ├── 2021041907_58                   
+    │     └── 2021041909_38                        
     │
     ├─ GAN19.ipynb                                  # !!!Paper demo model, check this one!!!
     ├─ GAN20_bigdataset.ipynb                       # The model training by big data
