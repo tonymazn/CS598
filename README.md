@@ -56,7 +56,8 @@ System Structure
     │     ├── 2021041723_40                         
     │     ├── 2021041807_52                         
     │     ├── 2021041907_58                   
-    │     └── 2021041909_38                        
+    │     ├── 2021041909_58                   
+    │     └── 2021042404_822                        
     │
     ├─ GAN19.ipynb                                  # !!!Paper demo model, check this one!!!
     ├─ GAN20_bigdataset.ipynb                       # The model training by big data
