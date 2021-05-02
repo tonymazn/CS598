@@ -59,8 +59,9 @@ System Structure
     │     ├── 2021041909_58                   
     │     └── 2021042404_822                        
     │
-    ├─ GAN19.ipynb                                  # !!!demo model, check this one!!!
-    ├─ GAN20_bigdataset.ipynb                       # The model training by big data
+    ├─ GAN19_Baseline.ipynb                         # GAN19 Baseline model 
+    ├─ GAN19_Model1.ipynb                           # GAN19 model 1
+    ├─ GAN19_Model2.ipynb                           # GAN19 model 2
     ├─ LICENSE                                      # project license file
     └─ README.md                                    # this file
 
