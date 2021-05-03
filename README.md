@@ -46,6 +46,7 @@ System Structure
     │
     ├── dataset                                     # dataset folder
     │     ├── qm8.csv                               # qm8 dataset
+    │     ├── qm8_GAN19.csv                         # qm8 dataset, but rename the 'E1-CC2' column name to 'mu'
     │     └── qm9.csv                               # qm9 dataset
     │
     ├── log                                         # train model log
