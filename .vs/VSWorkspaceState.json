@@ -1,8 +1,9 @@
 {
   "ExpandedNodes": [
     "",
+    "\\dataset",
     "\\log"
   ],
-  "SelectedNode": "\\GAN19_Baseline.ipynb",
+  "SelectedNode": "\\dataset\\qm8_GAN19.csv",
   "PreviewInSolutionExplorer": false
 }

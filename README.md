@@ -49,20 +49,16 @@ System Structure
     │     ├── qm8_GAN19.csv                         # qm8 dataset, but rename the 'E1-CC2' column name to 'mu'
     │     └── qm9.csv                               # qm9 dataset
     │
-    ├── log                                         # train model log
-    │     ├── 2021041710                            
-    │     ├── 2021041712                       
-    │     ├── 2021041715                                  
-    │     ├── 2021041719_63                             
-    │     ├── 2021041723_40                         
-    │     ├── 2021041807_52                         
-    │     ├── 2021041907_58                   
-    │     ├── 2021041909_58                   
-    │     └── 2021042404_822                        
     │
     ├─ GAN19_Baseline.ipynb                         # GAN19 Baseline model by qm9 dataset
     ├─ GAN19_Model1.ipynb                           # GAN19 model 1 by qm9 dataset
     ├─ GAN19_Model2.ipynb                           # GAN19 model 2 by qm9 dataset
+    ├─ GAN19_Model3.ipynb                           # GAN19 model 3 by qm9 dataset
+    ├─ GAN19_Model4.ipynb                           # GAN19 model 4 by qm9 dataset
+    ├─ GAN19_Model5.ipynb                           # GAN19 model 5 by qm9 dataset
+    ├─ GAN19_Model6.ipynb                           # GAN19 model 6 by qm9 dataset
+    ├─ GAN19_Model7.ipynb                           # GAN19 model 7 by qm9 dataset
+    ├─ GAN19_Model8.ipynb                           # GAN19 model 8 by qm9 dataset
     ├─ GAN19_qm8.ipynb                              # GAN19 model training by qm8 dataset
     ├─ LICENSE                                      # project license file
     └─ README.md                                    # this file
