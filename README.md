@@ -44,7 +44,6 @@ System Structure
     ├─ GAN19_Model6.ipynb                           # GAN19 model 6 by qm9 dataset
     ├─ GAN19_Model7.ipynb                           # GAN19 model 7 by qm9 dataset
     ├─ GAN19_Model8.ipynb                           # GAN19 model 8 by qm9 dataset
-    ├─ GAN19_qm8.ipynb                              # GAN19 model training by qm8 dataset
     ├─ LICENSE                                      # project license file
     └─ README.md                                    # this file
 
