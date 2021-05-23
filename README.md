@@ -69,8 +69,13 @@ Apache License
 Reference
 -
 [1] J. Li, R. Topaloglu and S. Ghosh, "Quantum Generative Models for Small Molecule," p. 1, 2021. 
+
 [2] Vivian Hu  Project Topic B: Deep learning in Drug Discovery  https://piazza.com/class/kjyow0m1rkd7mf?cid=522
+
 [3] I. Goodfellow, J. Pouget-Abadie, M. Mirza, B. Xu, D. WardeFarley, S. Ozair, A. courville and Y. Bengio, "Generative Adversarial Nets," NIPS, p. 1, 2014. 
+
 [4] L. Ruddigkeit, R. v. Deursen, L. C. Blum and J.-L. Reymond, " Enumeration of 166 billion organic small molecules in the chemical universe database GDB-17," J. Chem. Inf. Model, vol. 52, pp. 2864-2875, 2012. 
+
 [5] R. Ramakrishnan, P. O. Dral, M. Rupp and O. v. Lilienfeld, "Quantum chemistry structures and properties of 134 kilo molecules," Scientific Data 1, vol. 140022, 2014. 
+
 [6] Y. Bian and X. Xie, "Generative chemistry: drug discovery with deep learning generative models," arXiv preprint, vol. 09000, pp. 20,21, 2008. 
