@@ -1,7 +1,9 @@
 ﻿CS598 Final Project - Molecular Property Prediction
 -
    Drug discovery could take a lengthy process that usually takes more than 5 years, and it is costly as well with billions of dollars on bills [1]. There are a few research tasks under drug discovery, the first one is molecular property prediction task which the input is a drug molecule and the output is the drug’s properties. The second task is drug reposition with the input of drug proteins and molecules, and deep learning (DL) model predicts the affinity score, and the third task is drug-drug interaction with the input of different drugs and we want to predict the interactions between two drugs by deep learning. The lab will test drug-drug. The fourth one is de novo design which is the reversion of molecular property prediction [2].
+
    Deep Learning usually can be very helpful in those tasks. Due to the time limitations for the final project, we will only focus on one task: Molecular Property Prediction. 
+
    We propose a Conditional GANS (Generative Adversarial Networks) [3] to learn the dataset QM9 [4] [5] with its chemical space to discover molecular property prediction. The main idea came from one of the models in Yuemin Bian and Xiang-Qun Xie’s paper [6], We will demonstrate the detail in the following sections.
 
 
