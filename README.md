@@ -38,7 +38,7 @@ System Structure
     │     └── qm9.csv                               # qm9 dataset
     │
     ├── paper                                       # paper folder
-    │     └── zm11_ZhouningMa_Molecular_Property_Prediction_v15a.pdf 
+    │     └── zm11_ZhouningMa_Molecular_....pdf     
     │
     ├─ GAN19_Baseline.ipynb                         # GAN19 Baseline model by qm9 dataset
     ├─ GAN19_Model1.ipynb                           # GAN19 model 1 by qm9 dataset
